@@ -1,2 +1,2 @@
-add_lunch_combo bootleg_scorpio-userdebug
-add_lunch_combo bootleg_scorpio-eng
+add_lunch_combo havoc_scorpio-userdebug
+add_lunch_combo havoc_scorpio-eng
