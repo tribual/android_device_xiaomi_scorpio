@@ -1,0 +1,2 @@
+add_lunch_combo havoc_scorpio-userdebug
+add_lunch_combo havoc_scorpio-eng
