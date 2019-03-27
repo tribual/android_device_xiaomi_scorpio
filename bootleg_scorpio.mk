@@ -47,3 +47,6 @@ DEVICE_MAINTAINERS="tribual"
 
 #Make it official
 BOOTLEGGERS_BUILD_TYPE=Shishufied
+
+#select Bootanimation
+TARGET_PICK_BOOTANIMATION="6,7,8"
