@@ -21,6 +21,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from scorpio device
 $(call inherit-product, device/xiaomi/scorpio/device.mk)
 
+# Add Framework boost
+$(call inherit-product-if-exists, vendor/qcom/common/qti-vendor.mk)
+
 # Inherit some common Bootleg stuff.
 $(call inherit-product, vendor/bootleggers/config/common_full_phone.mk)
 
